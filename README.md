@@ -79,7 +79,7 @@ O projeto foi desenvolvido usando as seguintes tecnologias
   ❯ git clone https://github.com/ArlanBiati/youtube-clone-tesla
 
   # Entrar no diretório
-  ❯ cd youtube-clone-typeform
+  ❯ cd youtube-clone-tesla
 
   # Instalar dependências da aplicação
   ❯ yarn install
